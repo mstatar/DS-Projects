@@ -3,7 +3,7 @@ Tracking and counting persons
 
 Follow this Youtube video to run this code: https://youtu.be/Y2fyDYcfmBg
 
-Clone this github repo: 
+Clone this github repo:
 
 git clone https://github.com/AarohiSingla/Tracking-and-counting-Using-YOLOv8-and-DeepSORT.git
 
