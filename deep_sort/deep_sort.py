@@ -7,7 +7,7 @@ from .sort.detection import Detection
 from .sort.tracker import Tracker
 
 
-__all__ = ['DeepSort']
+__all__ = ['DeepSort'] 
 
 
 class DeepSort(object):
