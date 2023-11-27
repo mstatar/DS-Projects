@@ -1,4 +1,4 @@
-# Tracking-and-counting-Using-YOLOv8-and-DeepSORT
+# Queue Analytics using Yolov8 and deep_sort
 Tracking and counting persons
 
 Clone this github repo:
